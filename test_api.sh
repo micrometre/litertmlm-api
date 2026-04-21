@@ -17,7 +17,7 @@ curl -X POST "$API_URL" \
     "messages": [
       {
         "role": "user",
-        "content": "Say hello!"
+        "content": "can you write a python function that prints hello world "
       }
     ],
     "stream": true,
